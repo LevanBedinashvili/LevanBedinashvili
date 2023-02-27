@@ -6,8 +6,8 @@ Why I chose Laravel to develop websites? Laravel is an open-source PHP web appli
 
 Skills: PHP / LARAVEL / JQUERY / AJAX / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Livewire 
+- 🔭 I’m currently searching for a job 
+- 🌱 I’m currently learning a Livewire 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LevanBedinashvili)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100019262104546)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Levan.Bedinashvili/)  
