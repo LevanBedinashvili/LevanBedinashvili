@@ -11,5 +11,3 @@ Skills: PHP / LARAVEL / WordPress / JavaScript ES6 / JQUERY / AJAX  / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LevanBedinashvili&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=LevanBedinashvili)  
-
-![Profile views](https://gpvc.arturio.dev/LevanBedinashvili)  
